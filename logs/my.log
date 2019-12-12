@@ -1,0 +1,2 @@
+2019-12-08 00:10:06.911 DEBUG 34996 --- [http-nio-7900-exec-2] org.hibernate.SQL                        : select * from user
+2019-12-08 00:16:11.329 DEBUG 34996 --- [http-nio-7900-exec-9] org.hibernate.SQL                        : delete from user where id = ?
